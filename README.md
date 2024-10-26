@@ -4,7 +4,7 @@
 
 Objective
 Update the existing Login page with the new UI design, using Material UI Library, and the logic of Auth Context to authorize the user using firebase auth.
--	You are free to Pick 2 designs from designs uploaded in UI Designs folder in Google Drive task folder.
+
 Guidelines:
 •	Time Limit: The task must be completed within 48 hours.
 
