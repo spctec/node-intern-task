@@ -7,17 +7,28 @@ Update the existing Login page with the new UI design, using Material UI Library
 -	You are free to Pick 2 designs from designs uploaded in UI Designs folder in Google Drive task folder.
 Guidelines:
 •	Time Limit: The task must be completed within 48 hours.
+
 •	Clean code is a must.
+
 •	Use Material UI (MUI) library
+
 •	Follow the project structure
+
 •	Update Auth context to be use firebase
+
 •	Upload the final project to GitHub
+
 •	Deploy the project using Vercel free plan
+
 •	Create a testing account on firebase 
+
 o	Email: admin@domain.com
+
 o	Password: 123456
 
+
 Make the repository public and send the URL upon completion.
+
 https://wa.me/201099339393
 
 ## NODE.JS
